@@ -17,57 +17,33 @@ header{
     text-align: right;
     align-items: center;
     justify-content: center;
-    
-    
-    
-    
-
-
 }
+
 .navba a {
   background-color: #0f1111;
   color: #f3f0ef;
-  
   border: 1.2px solid rgb(10, 3, 3);
   padding: 5px 20px;
   margin-top: 1px;
-  
-  
   text-decoration: none;
   border-radius: 5px;
   margin-right: 3px;
-  
-  
-  
-
 }
 
 button{
-    
     background-color: rgb(206, 23, 23);
       padding: 5px 20px;
-    
     color:black;
     border-radius: 10px;
-     
-  
-    
-  
-  
-
-    
 }
+
 button:hover{
     font-weight: 150;
-  
   color: rgb(0, 8, 15);
   background-color:  rgb(207, 28, 28);
 }
 
-
-
 .navba a:hover{
-  
   color: rgb(0, 6, 11);
   background-color:  rgb(207, 28, 28);
 }
@@ -83,76 +59,26 @@ button:hover{
     padding: 0px 20px;
     border-radius: 20px;
     border:2px solid red;
-    
-
 }
+
 input{
     width: 120px;
-    
-    
     border: none;
     outline: none;
     background: none;
     font-size: 12px;
-
 }
+
 .fa-solid:hover{
     cursor: pointer;
     color: orangered;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .nav1{
   background-color:#5b615b;
   width: 100%;
-  height: 160px;
-   
+  height: 160px;  
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 nav ul li{
     list-style: none;
@@ -163,10 +89,9 @@ nav ul li{
 
 .bo{
     margin-left: 1290px;
-    margin-top: 55px;
-    
-    
+    margin-top: 55px;    
 }
+
 .tit{
     height: 160px;
     width: 300px;
@@ -176,9 +101,8 @@ nav ul li{
     font-size: 30px;
     font-weight: 500;
     color: aliceblue;
-    
-    
 }
+
 .tit p{
 margin-left: 3px;
 font-size: 33px;
@@ -187,29 +111,14 @@ color:aliceblue;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
 .di{
     height: 0px;
     width: 0px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 .nav {
     width: 100%;
     margin-left: 1px ;
-
-    
-
 }
 
 .nav a {
@@ -228,28 +137,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-transform: uppercase;
     margin-top: 100px;
     display: flex;
-    
-    
-    
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .nav__menu-item {
     display: inline;
@@ -261,17 +149,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: 19px;
     justify-content: center;
     align-items: center;
-    
-    
-
-
-    
 }
-
-
-
-
-
 
 .nav__menu-item a{
     font-size: 15px;
@@ -281,9 +159,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 
 .nav__menu-item:hover {
-    color: rgb(227, 30, 30);
-
-    
+    color: rgb(227, 30, 30);    
 }
 
 .nav__menu-item:hover .nav__submenu {
@@ -302,27 +178,14 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 550;
     padding: 0px;
     color: #0f1111;
-    background-color:#787e78;
-    
+    background-color:#787e78;    
 }
 
 .nav__menu-item:hover .nav__submenu a:hover{
     color: red;
     font-size: 16px;
     font-weight: 550;
-    
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 .nav__submenu {
@@ -334,19 +197,11 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 370px;
     height: 500px;
     background-color:#787e78;
-    
 }
 
-.nav__submenu-item:hover {
-    
+.nav__submenu-item:hover {    
     color: red;
 }
-
-
-
-
-
-
 
 .cont{
     text-align: center;
@@ -359,9 +214,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
     font-weight: 700;
     color: #eee;
-    font-style:italic;
-    
-      
+    font-style:italic;  
 }
 
 
@@ -369,7 +222,6 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
     transform: scalex(1.1);
     transition: 15s;}
-
 .cont:hover{
     
     transform: scaleX(1.1);
@@ -379,36 +231,18 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 /**droup**/
 
-
-
-
-
-
-
-
-
-
-
-
-
 .cos{
-    text-align: center;
-     
+    text-align: center;     
 }
 
 .cos p{
     font-size: 50px;
-    
-
 }
+
 .ram{
     text-align: center;
-    color: #eee;
-    
+    color: #eee;    
 } 
-
-
-
 
 .ram input{
     border: 3px solid rgb(114, 114, 247);
@@ -419,8 +253,8 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .ram input:hover{
     background-color: blue;
-    color:aliceblue;}
-
+    color:aliceblue;
+}
 
 .panel-all{
     color:#eee;
@@ -428,7 +262,6 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: 140px;
     font-size: 18px;
     font-weight: 700;
-
 }
 
 
@@ -473,8 +306,6 @@ button{
     height:180px;
     display:flex;
     justify-content: space-evenly;
-    
-
 }
 
 ul{
@@ -513,8 +344,7 @@ ul a{
 .pages{
     font-size:0.9rem;
     text-align: center;
-    padding-top:25px;
-    
+    padding-top:25px;    
 }
 
 
@@ -539,10 +369,7 @@ ul a{
     background-color: #eeefef;;
     padding:20px 0px 15px;
     margin-top:15px;
-    margin-bottom: 15px;
-    
-    
-    
+    margin-bottom: 15px;    
 }
 
 
@@ -550,12 +377,6 @@ ul a{
 h2{
     margin-left: 8px;
 }
-
-
-
-
-
-
 
 .box-img{
     
@@ -572,9 +393,7 @@ h2{
 .box-content{
     margin-left:10px;
     margin-right:10px;
-    display: flex;
-
-    
+    display: flex;    
 }
 
 
@@ -599,16 +418,14 @@ h2{
     width: 35%;
     border-radius: 20px;
 }
+
 .ox{
-    
- 
- 
  height: 700px;
     width: 35%;
     border-radius: 20px;
- 
     background-size: cover;
 }
+
 .jio{
     text-align: center;
     margin-bottom: 150px;
@@ -616,11 +433,11 @@ h2{
     font-size: 100px;
     font-weight: 700;
 }
+
 .box-conten{
     justify-content: space-evenly;
     display: flex;
 }
-
 
 .mg{
         
@@ -634,24 +451,4 @@ h2{
     border: 1px solid black;
     display: flex;
     margin-bottom: 130px;
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
